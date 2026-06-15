@@ -82,7 +82,24 @@ font-style: inherit;">1</span></span></code></pre></div></div>
 
  ]]></description>
   <guid>https://your-website-url.example.com/posts/New Post/</guid>
-  <pubDate>Mon, 15 Jun 2026 03:09:31 GMT</pubDate>
+  <pubDate>Mon, 15 Jun 2026 04:03:16 GMT</pubDate>
+</item>
+<item>
+  <title>HTH post</title>
+  <link>https://your-website-url.example.com/posts/HTH post attempt/HTH post.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>I am in Health Translation HUb, troubleshooting and trying to create posts to get familiar with this whole thing.</p>
+
+
+
+ ]]></description>
+  <guid>https://your-website-url.example.com/posts/HTH post attempt/HTH post.html</guid>
+  <pubDate>Mon, 15 Jun 2026 04:03:16 GMT</pubDate>
 </item>
 </channel>
 </rss>
