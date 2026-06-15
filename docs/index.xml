@@ -67,7 +67,7 @@ font-style: inherit;">1</span></span></code></pre></div></div>
   <pubDate>Wed, 10 Jun 2026 14:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>index</title>
+  <title>New Post</title>
   <link>https://your-website-url.example.com/posts/New Post/</link>
   <description><![CDATA[ 
 
@@ -82,7 +82,7 @@ font-style: inherit;">1</span></span></code></pre></div></div>
 
  ]]></description>
   <guid>https://your-website-url.example.com/posts/New Post/</guid>
-  <pubDate>Mon, 15 Jun 2026 04:03:16 GMT</pubDate>
+  <pubDate>Mon, 15 Jun 2026 04:06:12 GMT</pubDate>
 </item>
 <item>
   <title>HTH post</title>
@@ -99,7 +99,7 @@ font-style: inherit;">1</span></span></code></pre></div></div>
 
  ]]></description>
   <guid>https://your-website-url.example.com/posts/HTH post attempt/HTH post.html</guid>
-  <pubDate>Mon, 15 Jun 2026 04:03:16 GMT</pubDate>
+  <pubDate>Mon, 15 Jun 2026 04:06:12 GMT</pubDate>
 </item>
 </channel>
 </rss>
